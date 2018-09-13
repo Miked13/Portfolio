@@ -1,0 +1,38 @@
+.navbar{
+    background: #ffffff;
+}
+.navbar-brand{
+    background: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    float: left;
+    font-size: 26px;
+    padding: 40px;
+}
+
+
+.nav-link{
+    font-size:23px;
+    color: #777777;
+    float: left;
+    border-right: 1px solid #777777;
+    padding-right: 4px;
+}
+
+h1{
+    color: #4aaaa5;
+    background: bold white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    line-height: 60px;
+    background-color: #777777;
+    text-align: center;
+    color: white;
+}
